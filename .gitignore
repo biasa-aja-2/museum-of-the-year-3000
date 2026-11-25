@@ -1,0 +1,2 @@
+# Python bytecode caches are build artefacts, never part of the entry.
+__pycache__/
