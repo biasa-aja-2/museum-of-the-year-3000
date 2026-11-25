@@ -8,9 +8,9 @@ import os
 import sys
 
 LINE = "CAPTCHA, c. 2025. Proof of humanity: distorted letters only a human could read, which humans failed daily."
-# The joke is the year-3000 misreading: the label deadpans that the test
-# proved you were human, then admits humans failed it daily too — true,
-# absurd, and it lands on the first read. The line is 106 chars, 106 bytes.
+# The punchline is the last two words — "failed daily": the solemn proof
+# of humanity was something everybody failed, every day. The line is
+# 106 chars, 106 bytes, well inside the 200-char gate.
 
 MAX_CHARS = 200
 
